@@ -1,0 +1,14 @@
+{
+    "Addition": {
+        "plugin": "addition.js"
+    },
+    "Subtraction": {
+        "plugin": "subtraction.js"
+    },
+    "Multiplication": {
+        "plugin": "multiplication.js"
+    },
+    "Division": {
+        "plugin": "division.js"
+    }
+}
